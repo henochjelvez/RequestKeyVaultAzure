@@ -1,5 +1,5 @@
 # RequestKeyVaultAzure
-This script did for extract the Key Vault the Azure. You can do the securuty test.
+This script did for extract the Key Vault the Azure. You can do the security test.
 
 Welcome to the RequestKeyVaultAzure wiki!
 
