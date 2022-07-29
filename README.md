@@ -22,7 +22,9 @@ git clone https://github.com/henochjelvez/RequestKeyVaultAzure.git
 2) You can edit the file add the next variables.
 
 4) KeyvaultName = "Yo KeyVault name" 
+
 KVVUri = f"https://KeyVaultName.vault.azure.net" 
+
 SecretName = "Yo secret name"
 
 For execute the profile 
