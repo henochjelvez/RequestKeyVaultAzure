@@ -7,12 +7,20 @@ When this script python you can extract the secret in Key Vault service of Azure
 
 Requirement: Python3 Linux Ubuntu, Debian, Kali linux.
 
-You shoud install the libraries • pip3 install azure-common • pip3 install azure-cli-profile • pip3 install azure-mgmt-resource • pip3 install azure.identify • pip3 install azure-keyvault-secrets
+1) You shoud install the libraries 
+• pip3 install azure-common 
+• pip3 install azure-cli-profile 
+• pip3 install azure-mgmt-resource 
+• pip3 install azure.identify 
+• pip3 install azure-keyvault-secrets
 
-You can edit the file add the next variables.
+2) You can edit the file add the next variables.
 
-KeyvaultName = "Yo KeyVault name" KVVUri = f"https://KeyVaultName.vault.azure.net" SecretName = "Yo secret name"
+4) KeyvaultName = "Yo KeyVault name" 
+KVVUri = f"https://KeyVaultName.vault.azure.net" 
+SecretName = "Yo secret name"
 
-For execute the profile python3 requestKeyVaul.py
+For execute the profile 
+#python3 requestKeyVaul.py
 
 You can see the secret
