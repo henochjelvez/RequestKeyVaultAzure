@@ -7,7 +7,7 @@ When this script python you can extract the secret in Key Vault service of Azure
 
 Requirement: Python3 Linux Ubuntu, Debian, Kali linux.
 
-Donwload the repository in your S.O
+You can download the repository in your S.O
 
 git clone https://github.com/henochjelvez/RequestKeyVaultAzure.git
 
