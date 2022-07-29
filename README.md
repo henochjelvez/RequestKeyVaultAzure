@@ -3,7 +3,7 @@ This script did for extract the Key Vault the Azure. You can do the security tes
 
 Welcome to the RequestKeyVaultAzure wiki!
 
-When this script python you can extract the secret in Key Vault service of Azure, where you can appky the nexts steps.
+When this script python you can extract the secret in Key Vault service of Azure, where you can appy the nexts steps.
 
 Requirement: Python3 Linux Ubuntu, Debian, Kali linux.
 
